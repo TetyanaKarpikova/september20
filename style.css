@@ -1,0 +1,79 @@
+
+.background{
+    background: url(img/poster_vin_dizel.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;   
+}
+
+
+h1 a{
+    font-weight: initial;
+    color: rgb(88, 3, 109 0.3);
+    text-shadow: 3px -2px 3px rgb(184, 138, 236);
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 36px;
+    text-align: center;
+    align-content: center;
+    display: block;
+}
+.img-back-body{
+    background-image: url("img/poster_vin_dizel.jpg");
+    background-position: inherit;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+} 
+
+h2{
+    color: rgb(146 4 175);
+    font-style: italic;
+}
+
+.nav-menu{
+    width: 100%;
+}
+.rectangle{
+    list-style: none;
+    padding: 0;    
+}
+
+.rectangle li{     
+    display: inline-block;
+    align-content: center;
+    
+}
+.rectangle a{
+    text-decoration: none;
+    width: 150px;
+    background: rgb(230, 212, 243);
+    border-bottom: 1px solid grey;
+    border-radius: 5px;
+    color: rgb(65, 5, 80);
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    padding: 3px;
+    align-content: center;
+}
+.rectangle a:hover{
+    background-color: rgb(147, 75, 214);
+    color: rgb(37, 1, 83);
+}
+
+.img-poster{
+    height: 200px;
+    width: 150px;   
+}
+
+.section{
+    color: blueviolet;
+}
+
+.furious{
+    margin-left: 15px;
+    color: darkmagenta;
+    font-weight: bold;
+}
+
